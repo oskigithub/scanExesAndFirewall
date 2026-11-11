@@ -15,7 +15,7 @@ Las reglas se crean como `BLOCK_<nombre>` (salida, todos los perfiles).
 
 ## Uso
 Antes de correr → Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
-Clic derecho en `scanExecutablesAndFirewall.ps1` → **Ejecutar con PowerShell**. El script pide permisos de administrador solo.
+Clic derecho en `scanExesAndFirewall.ps1` → **Ejecutar con PowerShell**. El script pide permisos de administrador solo.
 
 ## Quitar una regla
 

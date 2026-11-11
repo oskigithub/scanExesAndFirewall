@@ -1,4 +1,4 @@
-# scanExecutablesAndFirewall.ps1
+# scanExesAndFirewall.ps1
 # Lista los procesos con conexiones activas y permite bloquear su salida a red
 # (solo el ejecutable o todos los .exe de su carpeta) con reglas de Firewall.
 
