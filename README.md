@@ -14,7 +14,7 @@ Script de PowerShell para Windows que lista los procesos con conexiones de red a
 Las reglas se crean como `BLOCK_<nombre>` (salida, todos los perfiles).
 
 ## Uso
-Antes de correr → Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Antes de correr → Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine.
 Clic derecho en `scanExesAndFirewall.ps1` → **Ejecutar con PowerShell**. El script pide permisos de administrador solo.
 
 ## Quitar una regla
